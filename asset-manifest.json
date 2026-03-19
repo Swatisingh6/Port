@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d390690a.css",
+    "main.js": "/static/js/main.0bbe70ba.js",
+    "static/js/453.0a7f0965.chunk.js": "/static/js/453.0a7f0965.chunk.js",
+    "static/media/management.png": "/static/media/management.fde0488bd3f164733c8f.png",
+    "static/media/soft.png": "/static/media/soft.8b378507aa0e920b284e.png",
+    "static/media/bits.png": "/static/media/bits.6f30768249f96134910c.png",
+    "static/media/innovation.png": "/static/media/innovation.1e14971923c1b6c28c45.png",
+    "static/media/dsa.png": "/static/media/dsa.292276c04537c7fdb68e.png",
+    "static/media/reactjs.png": "/static/media/reactjs.6bcffb56bd0efaa47767.png",
+    "static/media/automata.png": "/static/media/automata.f969fa45f5616c70cb74.png",
+    "static/media/eplq.png": "/static/media/eplq.cdb6f736415882713260.png",
+    "static/media/node.png": "/static/media/node.aa8bc616bb8252fa29f3.png",
+    "static/media/bank.png": "/static/media/bank.a8b53b4ae24e6ef4c728.png",
+    "static/media/spring.png": "/static/media/spring.a0177580796b3829249b.png",
+    "static/media/rohitImg.png": "/static/media/rohitImg.7fe9c42d9d1f6ad982e9.png",
+    "static/media/mongodb.jpg": "/static/media/mongodb.b9e24b8bb2aef42f7ee6.jpg",
+    "static/media/html.png": "/static/media/html.19becff9d12033dcbe29.png",
+    "static/media/java.png": "/static/media/java.7a2aa6ad3a281e612214.png",
+    "static/media/python.webp": "/static/media/python.3586851eeaea76ced8ac.webp",
+    "index.html": "/index.html",
+    "main.d390690a.css.map": "/static/css/main.d390690a.css.map",
+    "main.0bbe70ba.js.map": "/static/js/main.0bbe70ba.js.map",
+    "453.0a7f0965.chunk.js.map": "/static/js/453.0a7f0965.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d390690a.css",
+    "static/js/main.0bbe70ba.js"
+  ]
+}
